@@ -1,4 +1,4 @@
-#XMage Exe Booter
+## XMage Exe Booter
 How to use:
 1. Click on XMage.exe
 2. Click the Download button
