@@ -1,5 +1,5 @@
 # XMage Exe Booter
-Xmage Exe Booter is an executable that simply calls startClient. This way it is a way to start XMage that can be pinned to the taskbar.
+Xmage Exe Booter is an executable that simply calls startClient. This makes it a way to start XMage that can be pinned to the taskbar.
 ### How to use:
 1. Click on XMage.exe
 2. Click the Download button
